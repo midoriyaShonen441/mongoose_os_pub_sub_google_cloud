@@ -1,0 +1,6 @@
+{
+  "arch": "esp32",
+  "platform": "esp32",
+  "app_name": "01_fodder_system_microcontroller",
+  "build_time_ms": 72388
+}
